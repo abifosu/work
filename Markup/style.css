@@ -152,8 +152,7 @@ section {
 }
 
 .orange {
-    margin-top: 2.5em;
-
+    margin: 2.5em;
 }
 
 .involved {
@@ -348,7 +347,7 @@ footer {
     }
 
     .serve{
-        padding: 2rem;
+       
         display: flex;
         align-items: center;
     }
@@ -372,7 +371,6 @@ footer {
     .icons{
         width: 12%;
     }
-
 
 }
 
